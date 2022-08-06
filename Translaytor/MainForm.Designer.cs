@@ -162,7 +162,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Right;
-            this.pictureBox1.Image = global::Translaytor.Properties.Resources.Microsoft_Translator_Header_620x250;
+            this.pictureBox1.Image = global::Translaytor.Properties.Resources.Microsoft_Translator_Header_620x2501;
             this.pictureBox1.Location = new System.Drawing.Point(260, 16);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(334, 132);

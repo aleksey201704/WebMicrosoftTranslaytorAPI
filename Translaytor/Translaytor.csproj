@@ -126,6 +126,9 @@
   <ItemGroup>
     <None Include="bin\Debug\Microsoft-Translator-Header-620x250.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Microsoft-Translator-Header-620x250.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\System.Text.Json.6.0.5\build\System.Text.Json.targets" Condition="Exists('..\packages\System.Text.Json.6.0.5\build\System.Text.Json.targets')" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
